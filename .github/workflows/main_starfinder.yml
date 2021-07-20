@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'starfinder'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_610176e30d8644bb9f2c55f8adec084c }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_e285b2c06daf4c948612c792c0b2446d }}
