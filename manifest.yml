@@ -1,0 +1,4 @@
+apps:
+- name: starfinder
+  random-route: true
+  memory: 256M
